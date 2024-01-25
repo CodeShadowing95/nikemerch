@@ -1,3 +1,4 @@
+import { arrowRight } from "../assets/icons"
 import { shoe8 } from "../assets/images"
 import { Button } from "../components"
 
@@ -11,7 +12,7 @@ const SuperQuality = () => {
             <p className="mt-4 lg:max-w-lg info-text">Explore the Masterpiece Collection now and unleash the extraordinary with each step, as you walk in shoes that are truly a work of art.</p>
             <p className="mt-6 lg:max-w-lg info-text">At Nike, your satisfaction is our not just a goal; it's our guarantee.</p>
             <div className="mt-11">
-                <Button label="View details" />
+                <Button label="Shop now" iconURL={arrowRight} />
             </div>
         </div>
 
