@@ -60,17 +60,17 @@ export const services = [
     {
         imgURL: truckFast,
         label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        subtext: "Elevate your shopping experience with our complimentary shipping service. Enjoy the convenience of doorstep delivery at no extra cost, because getting your favorite Nike gear should be as seamless as your stride."
     },
     {
         imgURL: shieldTick,
         label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        subtext: "Your peace of mind is our priority. Shop confidently with our secure payment options, ensuring your transactions are as smooth and reliable as our footwear. Your trust is the foundation of our seamless shopping experience."
     },
     {
         imgURL: support,
         label: "Love to help you",
-        subtext: "Our dedicated team is here to assist you every step of the way."
+        subtext: "Have questions or need assistance? Our dedicated support team is here for you. Reach out anytime – because we're not just here to sell shoes; we're here to help you step into confidence and style."
     },
 ];
 
